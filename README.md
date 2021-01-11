@@ -9,6 +9,6 @@ This is current the prototype to work handle the desired capabilities of this pr
 - [x] Text (Note: Unity Tiny currently does not support multi line text so this part will be tedious)  
 - [x] Interactable Physics  
 - [ ] Custom Playermodels
-- [ ] Changing character model on the fly (a couple projects include vehicles so it would be fun to hop in them and "drive around")
+- [ ] Changing character model on the fly (a couple projects include vehicles so it would be fun to hop in them and "drive around")  
 ![](https://imgur.com/ZVwwwFJ.png)
 
